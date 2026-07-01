@@ -1,5 +1,6 @@
-# Universal Planner 📅
 
+# Universal Planner 📅
+Contributors are Markus, Hasan and Maximilian.
 This project serves as a mock personal planner software, specifically built to demonstrate foundational features and concepts covered in our object-oriented programming lectures. 
 
 > **🎓 Academic Context:**  
@@ -59,4 +60,3 @@ git push
 or if error >> git push -u origin <remotebranch-name>
 // pushes the changes into the remote repository
 ```
-//TODO
