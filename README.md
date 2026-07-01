@@ -1,20 +1,34 @@
-# Universal Planer 
-This project is build for our presentation in our OOP-Course. Contributors are Markus, Hasan and Maximilian.
+# Universal Planner 📅
 
-The goal of this project is to be a mock of a personal planer software, where we show the basic features with the topics we covered in our Java lectures.
-## Content: 
-<ul>
-    <li>Shopping List</li>
-    <li>Calender</li>
-    <li>TODO</li>
-</ul>
+This project serves as a mock personal planner software, specifically built to demonstrate foundational features and concepts covered in our object-oriented programming lectures. 
 
-## Environment Setup 
+> **🎓 Academic Context:**  
+> This collaborative project was developed for the course *"Objektorientierte Programmierung II: Grundlagen der objektorientierten Programmierung mit Java"*.  
+> **Date of Presentation:** August 04, 2023  
+> **Achieved Grade:** 1.3 (Excellent)  
+> **Contributors:** Markus, Hasan, and Maximilian
 
-Clone the Repository with
-```
-git clone https://github.com/MaximilianVollmer/Java_Presetantion.git
-```
+---
+
+## 🌟 Core Modules
+
+The planner is divided into three main components:
+* **Shopping List:** Manage your groceries and items, including quantities, descriptions, and categories[cite: 9, 16]. Data is persistently stored using JSON[cite: 16].
+* **Calendar:** Track important dates and manage your schedule.
+* **TODO:** Keep an overview of pending tasks and daily goals.
+
+## 🛠️ Tech Stack
+
+* **Language:** Java 20[cite: 8]
+* **Build Tool:** Maven[cite: 8]
+* **Dependencies:** `json-simple` (v1.1.1) for parsing and generating JSON data[cite: 8].
+
+## 🚀 Environment Setup & Contribution Workflow
+
+### 1. Clone the Repository
+Clone the project to your local machine:
+```bash
+git clone [https://github.com/MaximilianVollmer/Java_Presetantion.git](https://github.com/MaximilianVollmer/Java_Presetantion.git)
 \
 If not already done set your git username and email:
 ```
