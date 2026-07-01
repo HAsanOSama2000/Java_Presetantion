@@ -1,6 +1,5 @@
 
 # Universal Planner 📅
-Contributors are Markus, Hasan and Maximilian.
 This project serves as a mock personal planner software, specifically built to demonstrate foundational features and concepts covered in our object-oriented programming lectures. 
 
 > **🎓 Academic Context:**  
